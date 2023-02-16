@@ -1,0 +1,1 @@
+export const MEDICOS = {name:'medicos'}
